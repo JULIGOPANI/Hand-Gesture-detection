@@ -17,7 +17,7 @@ The hand gesture detection system is developed using the Mediapipe Framework and
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your_username/hand-gesture-detection.git
+   git clone https://github.com/JULIGOPANI/hand-gesture-detection.git
    ```
 
 2. Install the required dependencies:
@@ -33,13 +33,6 @@ The hand gesture detection system is developed using the Mediapipe Framework and
    ```
 
 2. Follow the instructions on the screen to perform hand gestures.
-
-## Supported Gestures
-
-- **Fist:** Close the current window
-- **Open Palm:** Pause/Play video
-- **Thumb Up:** Increase volume
-- **Thumb Down:** Decrease volume
 
 ## Contributing
 
