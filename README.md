@@ -1,10 +1,10 @@
 # Hand Gesture Detection Project
 
-This project aims to detect hand gestures using computer vision techniques.
+This project aims to detect hand gestures using computer vision techniques. 
 
 ## Overview
 
-The hand gesture detection system is developed using the OpenCV library. It can detect and recognize hand gestures in real-time using a webcam or process pre-recorded videos.
+The hand gesture detection system is developed using the Mediapipe Framework and OpenCV library. It can detect and recognize hand gestures in real-time using a webcam or process pre-recorded videos.
 
 ## Features
 
@@ -45,10 +45,8 @@ The hand gesture detection system is developed using the OpenCV library. It can 
 
 Contributions are welcome! If you want to contribute to this project, please fork the repository and create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to the OpenCV community for their valuable resources and tutorials.
+- 22CS021 Hinal Dobariya
+- 22CS024 Juli Gopani
