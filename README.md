@@ -48,5 +48,5 @@ Contributions are welcome! If you want to contribute to this project, please for
 ## Acknowledgments
 
 - Thanks to the OpenCV community for their valuable resources and tutorials.
-- 22CS021 Hinal Dobariya
+- 22CS021 Hinal Dobaria
 - 22CS024 Juli Gopani
